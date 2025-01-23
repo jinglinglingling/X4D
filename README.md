@@ -1,4 +1,7 @@
 # HOI4D competition
+
+X4d-sceneformer: Enhanced scene understanding on 4d point cloud videos through cross-modal knowledge transfer
+
 Please check out the HOI4D Challenge and related datasets (Including RGB videos and train.h5 files) on the website www.hoi4d.top and https://github.com/leolyliu/HOI4D-Instructions
 
 # Pre-trained segmentation feature
